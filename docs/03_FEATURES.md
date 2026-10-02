@@ -1,0 +1,15 @@
+# UrbanFlow - Features
+- Vehicle detection and tracking
+- Lane/approach mapping
+- Traffic-state estimation
+- EWMA smoothing
+- Lane Agents
+- Project Manager Agent
+- Adaptive signal control
+- Safety enforcement
+- Fairness/starvation prevention
+- SUMO simulation
+- Baseline comparison
+- Analytics and experiment management
+- Live monitoring dashboard
+- Alerts and audit logging
